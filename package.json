@@ -2,6 +2,7 @@
 	"name": "dynobot",
 	"version": "0.9.3",
 	"private": true,
+	"main": "main.js",
 	"repository": {
 		"type": "git",
 		"url": "https://jjbb1221/dynoBot.git"
