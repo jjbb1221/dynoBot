@@ -4,7 +4,10 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Blackhawk-TA/dynoBot.git"
+		"url": "https://jjbb1221/dynoBot.git"
+	},
+	"scripts": {
+                "start": "node bot.js"
 	},
 	"dependencies": {
 		"discord.js": "latest",
